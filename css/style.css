@@ -268,7 +268,7 @@ body {
     padding-top: 263px;
     min-height: 100vh;
     /* background: url('/img/background/intro.jpg') no-repeat center; */
-    background-image: url('./img/background/intro.jpg');
+    background-image: url('../img/background/intro.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
